@@ -1,4 +1,4 @@
-# Autonomous Study Planner
+# Cognit : Autonomous Study Planner
 
 AI-powered study planning application that generates personalized learning roadmaps using CrewAI agents.
 
